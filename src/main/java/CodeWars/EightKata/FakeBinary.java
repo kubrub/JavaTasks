@@ -1,3 +1,5 @@
+package CodeWars.EightKata;
+
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
@@ -21,9 +23,3 @@ public class FakeBinary {
         System.out.println(fakeBin(num));
     }
 }
-
-/*    //Write Code
-    int[] arr = new int arr[2];
-    int[0] = 2*q[0]-p[0];
-    intp[1] = 2*q[1]-p[1];
-    return arr;*/
