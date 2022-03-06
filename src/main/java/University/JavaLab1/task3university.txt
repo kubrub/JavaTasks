@@ -1,0 +1,4 @@
+univer1 univeradress1 1667 3 9
+univer2 univeraddress2 1791 4 6
+univer3 univeradress3 2001 2 8
+univer4 univeraddress4 1712 4 11

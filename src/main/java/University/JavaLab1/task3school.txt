@@ -1,0 +1,5 @@
+school1 schooladdress1 2000 1 900
+school2 schooladdress2 2011 2 912
+school3 schooladdress3 1996 4 700
+school4 schooladdress4 1926 4 700
+school5 schooladdress5 1991 4 700

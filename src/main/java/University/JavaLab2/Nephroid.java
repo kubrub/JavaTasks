@@ -1,4 +1,4 @@
-package JavaThreads;
+package University.JavaLab2;
 
 import java.awt.BasicStroke;
 import java.awt.Color;

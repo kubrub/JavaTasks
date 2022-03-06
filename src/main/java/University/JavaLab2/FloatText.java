@@ -1,4 +1,4 @@
-package JavaThreads;
+package University.JavaLab2;
 
 import java.awt.Color;
 import java.awt.Font;

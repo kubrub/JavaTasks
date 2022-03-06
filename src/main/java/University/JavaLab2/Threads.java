@@ -1,4 +1,4 @@
-package JavaThreads;
+package University.JavaLab2;
 
 import javax.swing.*;
 public class Threads {
